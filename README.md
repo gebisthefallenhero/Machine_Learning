@@ -5,7 +5,8 @@ machine learning.
 These are class prodjects
 * Linear Regression - A linear regression of the Boston Data set 
 * Logistic Regression- A logistic regression, random forrest, and support 
-vector machine approach combined for the kaggle titanic data set competition
+vector machine approach combined for the kaggle titanic data set competition.
+Additionally a feed forward ANN approach was taken at the end.
 * Support Vector Machines- A SVM approach to the iris data set
 
 ### Personal Prodjects
