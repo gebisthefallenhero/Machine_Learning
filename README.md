@@ -14,6 +14,8 @@ Additionally a feed forward ANN approach was taken at the end.
 from UCI.
 * College_Recuitment - A classification prodject of a data set found on
 kaggle for college admitance
+* Digit_Recognizer - A CNN approach in Keras for the famous MNIST handwritten
+digit data set.
 
 ### TensorFlow_Files/ANNS
 Contains the final prodject for the machine learning course I took. Using a
